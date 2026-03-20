@@ -28,18 +28,4 @@ A plataforma também direciona para canais oficiais de ajuda, como o **180 – C
 
 - HTML5  
 - CSS3  
-- JavaScript  
-
----
-
-## 📸 Preview do Projeto
-
-![Preview do site](./preview.png)
-
----
-
-## 🚀 Como usar
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/seuusuario/seu-repositorio.git
+- JavaScrip
