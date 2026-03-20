@@ -1,12 +1,45 @@
-# React + Vite
+# 🚨 Plataforma de Denúncia de Abuso contra a Mulher
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> "Você não está sozinha."
 
-Currently, two official plugins are available:
+Uma aplicação web desenvolvida com o objetivo de oferecer um espaço **seguro, anônimo e acessível** para denúncias de abuso contra mulheres.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 💡 Sobre o Projeto
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Este projeto foi criado com foco em **conscientização, apoio e segurança**, permitindo que vítimas ou testemunhas possam relatar situações de abuso de forma simples e rápida.
+
+A plataforma também direciona para canais oficiais de ajuda, como o **180 – Central de Atendimento à Mulher**.
+
+---
+
+## 🎯 Funcionalidades
+
+- 📩 Envio de denúncias anônimas  
+- 📝 Formulário simples e intuitivo  
+- 🔒 Foco em privacidade e segurança  
+- 📞 Informações de contato para ajuda imediata  
+- 🌐 Interface acessível e responsiva  
+
+---
+
+## 🖥️ Tecnologias Utilizadas
+
+- HTML5  
+- CSS3  
+- JavaScript  
+
+---
+
+## 📸 Preview do Projeto
+
+![Preview do site](./preview.png)
+
+---
+
+## 🚀 Como usar
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/seuusuario/seu-repositorio.git
